@@ -7,7 +7,7 @@
 #
 Name     : R-MLmetrics
 Version  : 1.1.3
-Release  : 40
+Release  : 41
 URL      : https://cran.r-project.org/src/contrib/MLmetrics_1.1.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/MLmetrics_1.1.3.tar.gz
 Summary  : Machine Learning Evaluation Metrics
